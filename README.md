@@ -1,9 +1,13 @@
 # Bienvenidos!
 
-![1](https://user-images.githubusercontent.com/81307858/113519935-94731800-955d-11eb-8d60-9f318b1d8c40.png)
-![2](https://user-images.githubusercontent.com/81307858/113519938-98069f00-955d-11eb-859b-e11ea3504012.png)
+## Diseño para la escritura
 
-[<img align="left" width="400px" src="https://user-images.githubusercontent.com/81307858/113522664-7a8f0080-9570-11eb-851b-ecfd42187b58.png" />]
+¡Hola! Somos un grupo de estudiantes de la Pontificia Universidad Católica de Valparaíso de las carreras de Diseño y Pedagogía. Estamos realizando un estudio para aprender más sobre los hábitos de estudios en la materia de lenguaje.
+
+### Encuesta online 
+
+Podrías responder la breve encuesta que se encuentra abajo por favor?
+
 [<img align="right" width="400px" src="https://user-images.githubusercontent.com/81307858/113522671-8b3f7680-9570-11eb-828e-43dc2baac9ef.png" />][Website]
 
 [Website]: https://scs4hwkacnb.typeform.com/to/SDqPkxpG
