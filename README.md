@@ -9,8 +9,6 @@
 [Descargar]: https://drive.google.com/drive/u/1/folders/14gaAcVQQJE1JtKCbYrey1wCUWexvY9nC
 
 
-[<img align="center" width="200px" src="" />][Descargar]
 
-[Descargar]:  https://scs4hwkacnb.typeform.com/to/SDqPkxpG
 
 
