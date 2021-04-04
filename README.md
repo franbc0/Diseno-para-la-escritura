@@ -4,12 +4,9 @@
 # Archivos
 
 
-[<img align="center" width="200px" src="![Descargar aquí](https://user-images.githubusercontent.com/81307858/113522455-88dc1d00-956e-11eb-9dce-5ac39b7d2629.png)
-" />][Descargar]
-
+[<img align="center" width="200px" src="" />][Descargar]
 [Descargar]: https://drive.google.com/drive/u/1/folders/14gaAcVQQJE1JtKCbYrey1wCUWexvY9nC
 
 
-
-
- https://scs4hwkacnb.typeform.com/to/SDqPkxpG
+[<img align="center" width="200px" src="" />][Website]
+[Website]: https://scs4hwkacnb.typeform.com/to/SDqPkxpG
