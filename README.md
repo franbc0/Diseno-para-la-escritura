@@ -4,6 +4,9 @@
 [sonda interactiva (1).pdf](https://github.com/Michellemcisaac/Diseno-para-la-escritura/files/6255262/sonda.interactiva.1.pdf)
  https://scs4hwkacnb.typeform.com/to/SDqPkxpG
 
-[<img align="center" width="200px" src="img/bruh.jpg" />][Descargar]
+[<img align="center" width="200px" src="[Descargar aquí](https://user-images.githubusercontent.com/81307858/113521985-32211400-956b-11eb-82e6-cbcc16809181.png)" />][Descargar]
 
 [Descargar]: https://drive.google.com/drive/u/1/folders/14gaAcVQQJE1JtKCbYrey1wCUWexvY9nC
+
+
+
