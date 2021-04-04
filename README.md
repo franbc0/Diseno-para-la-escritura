@@ -4,7 +4,7 @@
 ![2](https://user-images.githubusercontent.com/81307858/113519938-98069f00-955d-11eb-859b-e11ea3504012.png)
 
 [<img align="left" width="500px" src="https://user-images.githubusercontent.com/81307858/113522615-0eac9800-9570-11eb-8bfe-1589f330bf00.png" />]
-[<img align="righ" width="200px" src="https://user-images.githubusercontent.com/81307858/113522634-43205400-9570-11eb-9368-ca2792c873ed.png" />][Descargar]
+[<img align="righ" width="500px" src="https://user-images.githubusercontent.com/81307858/113522634-43205400-9570-11eb-9368-ca2792c873ed.png" />][Descargar]
 
 [Descargar]: https://drive.google.com/drive/u/1/folders/14gaAcVQQJE1JtKCbYrey1wCUWexvY9nC
 
