@@ -3,3 +3,7 @@
 
 [sonda interactiva (1).pdf](https://github.com/Michellemcisaac/Diseno-para-la-escritura/files/6255262/sonda.interactiva.1.pdf)
  https://scs4hwkacnb.typeform.com/to/SDqPkxpG
+
+[<img align="center" width="200px" src="img/bruh.jpg" />][Descargar]
+
+[Descargar]: https://drive.google.com/drive/u/1/folders/14gaAcVQQJE1JtKCbYrey1wCUWexvY9nC
