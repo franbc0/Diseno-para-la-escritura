@@ -14,6 +14,6 @@
 
 [<img align="righ" width="400px" src="https://user-images.githubusercontent.com/81307858/113522634-43205400-9570-11eb-9368-ca2792c873ed.png" />][Descargar]
 
-[Descargar]: https://drive.google.com/drive/u/1/folders/14gaAcVQQJE1JtKCbYrey1wCUWexvY9nC
+[Descargar]: https://github.com/Michellemcisaac/Diseno-para-la-escritura/files/6255435/Sonda.interactiva.3.1.pdf
 
 
