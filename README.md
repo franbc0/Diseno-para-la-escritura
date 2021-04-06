@@ -10,7 +10,7 @@ Podrías responder la breve encuesta que se encuentra abajo por favor?
 
 
 
-[<img align="right" width="200px" src="https://user-images.githubusercontent.com/81307858/113522671-8b3f7680-9570-11eb-828e-43dc2baac9ef.png" />][Website]
+[<img align="center" width="200px" src="https://user-images.githubusercontent.com/81307858/113522671-8b3f7680-9570-11eb-828e-43dc2baac9ef.png" />][Website]
 
 [Website]: https://scs4hwkacnb.typeform.com/to/SDqPkxpG
 
